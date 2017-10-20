@@ -7,5 +7,6 @@ class Smoker:
         self.preferences            #papers or blunts
         self.money                  #amount of money smoker has
         self.stash                  #all the weed the smoker has
+                                    #new line
 
 
